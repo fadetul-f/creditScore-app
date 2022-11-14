@@ -1,2 +1,2 @@
-# creditScore-app
-Aplikasi untuk mmemprediksi tingkat resiko peminjaman dari nasabah apakah akan membayar tepat waktu atau tidak
+## Deploying your Streamlit Application
+> A guide on creating and deploying your streamlit app to Heroku 
