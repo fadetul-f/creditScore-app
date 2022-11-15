@@ -17,6 +17,8 @@ _, col2, _ = st.columns([1, 2, 1])
 
 with col2:
     st.image('./pinjaman.jpg')
+    
+with col2:
     st.header('Form Pengajuan Pinjaman')
 
 
