@@ -22,5 +22,6 @@ with st.form(key='my_form'):
    overdue = st.text_input('Rata-rata Overdue')
    st.form_submit_button('Check Resiko')
 
+st.write("Source Code : [https://github.com/fadetul-f/creditScore-app](https://github.com/fadetul-f/creditScore-app)")
 
    
